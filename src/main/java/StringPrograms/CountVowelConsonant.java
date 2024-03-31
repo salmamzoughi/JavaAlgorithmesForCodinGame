@@ -7,7 +7,7 @@ public class CountVowelConsonant {
         int vCount = 0, cCount = 0;
 
         //Declare a string
-        String str = "This is a really simple sentence";
+        String str = "This is a simple sentence for Ja";
         System.out.println(str);
         //Converting entire string to lower case to reduce the comparisons
         str = str.toLowerCase();
