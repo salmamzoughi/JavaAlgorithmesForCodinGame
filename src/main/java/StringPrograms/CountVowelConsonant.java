@@ -7,10 +7,12 @@ public class CountVowelConsonant {
         int vCount = 0, cCount = 0;
 
         //Declare a string
-        String str = "This is a simple sentence for Ja";
+        String str = "This is a simple sentence for Java";
         System.out.println(str);
         //Converting entire string to lower case to reduce the comparisons
         str = str.toLowerCase();
+        String str1 = "This is a simple change";
+        System.out.println(str1);
 
         for(int i = 0; i < str.length(); i++) {
             //Checks whether a character is a vowel
