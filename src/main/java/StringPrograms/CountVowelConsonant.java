@@ -29,4 +29,8 @@ public class CountVowelConsonant {
         System.out.println("Number of vowels: " + vCount);
         System.out.println("Number of consonants: " + cCount);
     }
+    public static void hello{
+        int a =1+2;
+        System.out.println(a);
+    }
 }
